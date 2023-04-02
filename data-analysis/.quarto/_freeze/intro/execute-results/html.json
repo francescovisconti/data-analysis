@@ -1,0 +1,14 @@
+{
+  "hash": "d1d01cb2fb2903e0a3d59c7836fa6c94",
+  "result": {
+    "markdown": "# Excel basics\n\n## How to get it\n\n## Program window\n\n### The ribbon\n\n### \n\n### Quick access tools\n\n### The worksheet\n\n### Status bar\n\n## The basics\n\n## Formulas\n\n## Functions\n\n## References\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

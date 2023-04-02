@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data analysis",
+    "section": "",
+    "text": "Welcome\nThis is the website for the work-in-progress book of “Data analysis”. This book will teach you how to do basic data analysis in Microsoft Excel: You’ll learn how to import data, get it into the most useful structure, transform it, analyse and visualise it.\nSpreadsheets are basic but resourceful tools used in many different industries as well as in academia for data gathering and analysis. This short book will provide tools and the skills for retrieving, analysing and visualizing relevant data and information. After reading this book you will be ready to continue with more advanced data analysis software.\nWe will review the major online sources for political, economic and juridical data and information. Afterwards we will concentrate on the practical use of spreadsheets like Microsoft Excel to organize efficiently data and produce descriptive analyses and graphs. At the end of the course students should be able to: pose a question and look for relevant data; collect data; to download, manage, explore data, and test bivariate associations; to communicate findings using graphs and tables.\n\nAcknowledgments\nThis book was created using Quarto. To learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Appendix A — Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Appendix B — Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "intro.html#how-to-get-it",
+    "href": "intro.html#how-to-get-it",
+    "title": "2  Excel basics",
+    "section": "2.1 How to get it",
+    "text": "2.1 How to get it"
+  },
+  {
+    "objectID": "intro.html#program-window",
+    "href": "intro.html#program-window",
+    "title": "2  Excel basics",
+    "section": "2.2 Program window",
+    "text": "2.2 Program window\n\n2.2.1 The ribbon\n\n\n2.2.2 \n\n\n2.2.3 Quick access tools\n\n\n2.2.4 The worksheet\n\n\n2.2.5 Status bar"
+  },
+  {
+    "objectID": "intro.html#the-basics",
+    "href": "intro.html#the-basics",
+    "title": "2  Excel basics",
+    "section": "2.3 The basics",
+    "text": "2.3 The basics"
+  },
+  {
+    "objectID": "intro.html#formulas",
+    "href": "intro.html#formulas",
+    "title": "2  Excel basics",
+    "section": "2.4 Formulas",
+    "text": "2.4 Formulas"
+  },
+  {
+    "objectID": "intro.html#functions",
+    "href": "intro.html#functions",
+    "title": "2  Excel basics",
+    "section": "2.5 Functions",
+    "text": "2.5 Functions"
+  },
+  {
+    "objectID": "intro.html#references",
+    "href": "intro.html#references",
+    "title": "2  Excel basics",
+    "section": "2.6 References",
+    "text": "2.6 References\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "1  Why Data analysis?",
+    "section": "",
+    "text": "Data are empirical material organised into a form that can be analysed.\nData analysis is a process of gathering, inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions and supporting decision-making.\n(Source: https://en.wikipedia.org/wiki/Data_analysis)"
+  },
+  {
+    "objectID": "preface.html#what-is-the-object-of-this-book",
+    "href": "preface.html#what-is-the-object-of-this-book",
+    "title": "1  Why Data analysis?",
+    "section": "1.1 What is the object of this book?",
+    "text": "1.1 What is the object of this book?\n\nData are empirical material organised into a form that can be analysed.\nData analysis is a process of gathering, inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions and supporting decision-making.\n(Source: https://en.wikipedia.org/wiki/Data_analysis)"
+  },
+  {
+    "objectID": "preface.html#what-is-the-objective-of-this-course",
+    "href": "preface.html#what-is-the-objective-of-this-course",
+    "title": "1  Why Data analysis?",
+    "section": "1.2 What is the objective of this course?",
+    "text": "1.2 What is the objective of this course?\n\nTo help you become a better consumer of information and academic research:\n\nlearn how to read and interpret a table or a chart;\n\nTo start you on the road to becoming a producer of information and research:\n\nto pose a question and look for relevant data;\nto collect, download, manage, explore, and analyse data;\nto communicate findings using graphs and tables"
+  },
+  {
+    "objectID": "preface.html#why-learning-excel",
+    "href": "preface.html#why-learning-excel",
+    "title": "1  Why Data analysis?",
+    "section": "1.3 Why learning Excel?",
+    "text": "1.3 Why learning Excel?\n\nMicrosoft Excel is the most popular computer spreadsheet programme that can be used to store and analyse large quantities of data.\nExcel has many functions to sort and analyse the data that range from basic mathematical functions to complex statistical analyses.\nIt is one of the most widely used programmes of its kind across the globe and has become the industry standard.\n\n\n\nYou can even use it to paint!\nSee https://mymodernmet.com/tatsuo-horiuchi-excel-spreadsheet-paintings/."
+  },
+  {
+    "objectID": "preface.html#what-is-excel",
+    "href": "preface.html#what-is-excel",
+    "title": "1  Why Data analysis?",
+    "section": "1.4 What is Excel?",
+    "text": "1.4 What is Excel?\n\nA spreadsheet is an interactive computer application for the organisation, analysis, and storage of data in tabular form.\n(Source: https://en.wikipedia.org/wiki/Spreadsheet )\nA spreadsheet consists of a table of cells arranged into rows and columns and referred to by the X (Columns) and Y (Rows) locations.\nColumns locations are normally represented by letters, “A”, “B”, “C”, etc., while rows are normally represented by numbers, 1, 2, 3, etc.\nA single cell can be referred to by addressing its row and column, “C10” for instance (like playing battleship).\nWhat makes a spreadsheet software program unique is its ability to calculate values using mathematical formulas and the data in cells.\n\n\n1.4.1 Spreadsheets basic components\n\nCell\n A box for holding data. A single cell is usually referenced by its column and row.\nWorksheet/Sheet\n A grid of cells with either raw data, called values, or formulas in the cells.\nValues\n Raw data (general numbers, text, dates). Alternatively, a value can be based on a formula, which might perform a calculation.\nFormulas say how to mechanically compute new values from existing values.\nFunctions\n Built-in functions, such as arithmetic operations (for example, summations, averages), trigonometric functions, statistical functions, etc..\nCharts\n Graphical display of data.\n\n\n\n1.4.2 History of spreadsheets\n\nVisiCalc by Dan Bricklin released in1979\n\nIt was the first spreadsheet computer program for personal computers, originally released for the Apple II.\nIt is considered the application that turned the microcomputer from a hobby for computer enthusiasts into a serious business tool. VisiCalc is considered the Apple II’s killer app.\nIt sold over 700,000 copies in six years, and as many as 1 million copies over its history.\n\nLotus 1-2-3 by Lotus Software (1983)\n\nAdded the possibility of creating graphs\n\nMicrosoft Excel released in 1985 for Macintosh Apple II and in 1987 on Windows\n\nBy the early 1990s, Excel had started to outsell Lotus 1-2-3 and helped Microsoft achieve its position as a leading PC software developer.\n\n1.4.3 How to get it?\nOffice 365 Education\nUsing your Unimi email (name.surname@studenti.unimi.it) at this link: https://www.microsoft.com/it-it/education/products/office\nMS Excel for Linux users\n\nUse Wine https://www.winehq.org/ : allows you to run Windows apps on Linux.\nUse Microsoft Excel via browser:\n\nGo to https://www.office.com\nSign in with your Unimi user account"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "hash": "fa65959b8f555be72b12f20de763d5df",
+  "result": {
+    "markdown": "# Welcome {.unnumbered}\n\nThis is the website for the work-in-progress book of \"Data analysis\". This book will teach you how to do basic data analysis in Microsoft Excel: You'll learn how to import data, get it into the most useful structure, transform it, analyse and visualise it.\n\nSpreadsheets are basic but resourceful tools used in many different industries as well as in academia for data gathering and analysis. This short book will provide tools and the skills for retrieving, analysing and visualizing relevant data and information. After reading this book you will be ready to continue with more advanced data analysis software.\n\nWe will review the major online sources for political, economic and juridical data and information. Afterwards we will concentrate on the practical use of spreadsheets like Microsoft Excel to organize efficiently data and produce descriptive analyses and graphs. At the end of the course students should be able to: pose a question and look for relevant data; collect data; to download, manage, explore data, and test bivariate associations; to communicate findings using graphs and tables.\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

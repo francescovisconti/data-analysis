@@ -1,0 +1,29 @@
+# Excel basics
+
+## How to get it
+
+## Program window
+
+### The ribbon
+
+### 
+
+### Quick access tools
+
+### The worksheet
+
+### Status bar
+
+## The basics
+
+## Formulas
+
+## Functions
+
+## References
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
